@@ -115,7 +115,6 @@ A secure authentication backend with Express.js, JWT, Express Validator and midd
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya31032006&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -126,9 +125,9 @@ A secure authentication backend with Express.js, JWT, Express Validator and midd
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya31032006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-n-gandhi)
 [![npm](https://img.shields.io/badge/npm-mgcheck-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/mgcheck)
-<!-- Add your own links below, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+<!-- Add more links below, e.g.:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
 -->
 
